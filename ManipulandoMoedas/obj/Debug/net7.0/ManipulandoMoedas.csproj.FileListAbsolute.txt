@@ -1,0 +1,15 @@
+C:\cursobalta\ManipulandoMoedas\bin\Debug\net7.0\ManipulandoMoedas.exe
+C:\cursobalta\ManipulandoMoedas\bin\Debug\net7.0\ManipulandoMoedas.deps.json
+C:\cursobalta\ManipulandoMoedas\bin\Debug\net7.0\ManipulandoMoedas.runtimeconfig.json
+C:\cursobalta\ManipulandoMoedas\bin\Debug\net7.0\ManipulandoMoedas.dll
+C:\cursobalta\ManipulandoMoedas\bin\Debug\net7.0\ManipulandoMoedas.pdb
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.csproj.AssemblyReference.cache
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.AssemblyInfoInputs.cache
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.AssemblyInfo.cs
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.csproj.CoreCompileInputs.cache
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.dll
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\refint\ManipulandoMoedas.dll
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.pdb
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ManipulandoMoedas.genruntimeconfig.cache
+C:\cursobalta\ManipulandoMoedas\obj\Debug\net7.0\ref\ManipulandoMoedas.dll

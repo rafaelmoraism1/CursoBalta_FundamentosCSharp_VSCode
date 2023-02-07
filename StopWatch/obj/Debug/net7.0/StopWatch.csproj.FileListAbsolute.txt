@@ -1,0 +1,15 @@
+C:\cursobalta\StopWatch\bin\Debug\net7.0\StopWatch.exe
+C:\cursobalta\StopWatch\bin\Debug\net7.0\StopWatch.deps.json
+C:\cursobalta\StopWatch\bin\Debug\net7.0\StopWatch.runtimeconfig.json
+C:\cursobalta\StopWatch\bin\Debug\net7.0\StopWatch.dll
+C:\cursobalta\StopWatch\bin\Debug\net7.0\StopWatch.pdb
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.csproj.AssemblyReference.cache
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfoInputs.cache
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfo.cs
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.dll
+C:\cursobalta\StopWatch\obj\Debug\net7.0\refint\StopWatch.dll
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.pdb
+C:\cursobalta\StopWatch\obj\Debug\net7.0\StopWatch.genruntimeconfig.cache
+C:\cursobalta\StopWatch\obj\Debug\net7.0\ref\StopWatch.dll

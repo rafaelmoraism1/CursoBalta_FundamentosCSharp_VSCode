@@ -1,0 +1,15 @@
+C:\cursobalta\TextEditorVS2\bin\Debug\net7.0\TextEditorVS2.exe
+C:\cursobalta\TextEditorVS2\bin\Debug\net7.0\TextEditorVS2.deps.json
+C:\cursobalta\TextEditorVS2\bin\Debug\net7.0\TextEditorVS2.runtimeconfig.json
+C:\cursobalta\TextEditorVS2\bin\Debug\net7.0\TextEditorVS2.dll
+C:\cursobalta\TextEditorVS2\bin\Debug\net7.0\TextEditorVS2.pdb
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.csproj.AssemblyReference.cache
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.AssemblyInfoInputs.cache
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.AssemblyInfo.cs
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.csproj.CoreCompileInputs.cache
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.dll
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\refint\TextEditorVS2.dll
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.pdb
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\TextEditorVS2.genruntimeconfig.cache
+C:\cursobalta\TextEditorVS2\obj\Debug\net7.0\ref\TextEditorVS2.dll

@@ -1,0 +1,2 @@
+Texto texte
+rograma editor de texto

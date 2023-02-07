@@ -1,0 +1,15 @@
+C:\cursobalta\ManipulandoDatas\bin\Debug\net7.0\ManipulandoDatas.exe
+C:\cursobalta\ManipulandoDatas\bin\Debug\net7.0\ManipulandoDatas.deps.json
+C:\cursobalta\ManipulandoDatas\bin\Debug\net7.0\ManipulandoDatas.runtimeconfig.json
+C:\cursobalta\ManipulandoDatas\bin\Debug\net7.0\ManipulandoDatas.dll
+C:\cursobalta\ManipulandoDatas\bin\Debug\net7.0\ManipulandoDatas.pdb
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.csproj.AssemblyReference.cache
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.AssemblyInfoInputs.cache
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.AssemblyInfo.cs
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.csproj.CoreCompileInputs.cache
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.dll
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\refint\ManipulandoDatas.dll
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.pdb
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ManipulandoDatas.genruntimeconfig.cache
+C:\cursobalta\ManipulandoDatas\obj\Debug\net7.0\ref\ManipulandoDatas.dll
